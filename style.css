@@ -143,8 +143,8 @@ nav a:hover {
     margin-bottom: 20px;
 }
 .card{
-    border-color: #294e91 !important;
-    border-width: 2px !important;
+    /* border-color: #294e91 !important; */
+    border-width: 0px !important;
     height: 400px;
 }
 .seeMoreBtn{
