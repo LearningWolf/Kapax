@@ -74,8 +74,8 @@ nav a:hover {
     background-size: cover;
     background-position: center;
     color: #fff;
-    min-height: 620px;
-    height: 60vh;
+    min-height: 420px;
+    height: fit-content;
 }
 .carousel-caption {
     right: 0 !important;
